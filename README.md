@@ -2,13 +2,13 @@
 
 在本机画布中组织图片、视频、文字和参考素材，连接你自己的模型服务，继续编辑、抠图与多轨剪辑。
 
-当前版本 **v0.8.1 · 公开测试版**，面向 Windows x64。本版集中修复首轮实机反馈，欢迎下载安装并反馈具体问题。
+当前版本 **v0.8.2 · 公开测试版**，面向 Windows x64。本版集中修复安装进度、长路径补装、GIF重开和卸载收尾问题，欢迎下载安装并反馈具体问题。
 
-[下载安装包与版本说明](https://github.com/HunterAyi/Aly-Canvas/releases/tag/v0.8.1)
+[下载安装包与版本说明](https://github.com/HunterAyi/Aly-Canvas/releases/tag/v0.8.2)
 
 ## 开始使用
 
-1. 下载 `AlyCanvas-0.8.1-Windows-x64-Setup.exe`，双击安装，无需先解压。
+1. 下载 `AlyCanvas-0.8.2-Windows-x64-Setup.exe`，双击安装，无需先解压。
 2. 选择安装位置。安装器会下载并校验画布、小A和音视频基础组件。安装完成后请从桌面入口或完整安装目录启动。
 3. 从桌面 **Aly画布** 进入首页，新建画布或打开工程。在 API 设置中填入自己的连接与 KEY。
 4. 基础组件下载约739 MiB；本地抠图额外约1.77 GiB。第一次打开本地抠图时，会显示模型和 CPU 环境的下载大小；点击安装后才下载，画布可以继续使用。安装完成后，本地抠图可离线使用。
@@ -34,7 +34,7 @@
 
 ## 测试与反馈
 
-本版为公开测试版；本机成品验收范围和待测范围见[版本说明](https://github.com/HunterAyi/Aly-Canvas/releases/tag/v0.8.1)。其他电脑的安装、兼容性与实际使用还需要继续测试。
+本版为公开测试版；本机成品验收范围和待测范围见[版本说明](https://github.com/HunterAyi/Aly-Canvas/releases/tag/v0.8.2)。其他电脑的安装、兼容性与实际使用还需要继续测试。
 
 遇到问题可以在 [Issues](https://github.com/HunterAyi/Aly-Canvas/issues) 说明：软件版本、操作步骤、预期结果、实际结果以及脱敏截图。不要上传 KEY、登录凭据或私人工程。
 
